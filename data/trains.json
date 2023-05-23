@@ -13,13 +13,7 @@
 					"station": "Pine",
 					"status": "ON-TIME",
 					"arrival": "1:00pm",
-					"departure": "1:10pm"
-				},
-				{
-					"station": "Pune",
-					"status": "ON-TIME",
-					"arrival": "2:00pm",
-					"departure": "2:20pm"
+					"departure": "1:20pm"
 				}
 			]
 		},
